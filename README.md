@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Khushi Sahni currently enrolled in Ajeenkya DY Patil University pursuing B.Tech in Artificial Intelligence and Data Science.
+I'm Khushi  currently enrolled in Ajeenkya DY Patil University pursuing B.Tech in Artificial Intelligence and Data Science.
 
 - 🔭 I’m currently working on Tableau visualization projects.
 - 🌱 I’m currently learning DBMS and DS.
