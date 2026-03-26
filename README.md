@@ -5,7 +5,7 @@
 </p>
 
 <p align= "center">
-  <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="[https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png](https://banner2.cleanpng.com/20240401/czl/transparent-heart-balloon-cute-bunny-holding-heart-balloon-on-black-backgrou660a5f6fde2577.00512322.webp)" width="128px" height="128px" alt="HelloKittyByeBye"></a>
+  <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="https://imgs.search.brave.com/sphgbtHBl2VSIn9yb66VHbrLpJOsn9zsAZZOnpQXbUQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2l0eXBuZy5jb20v/cHVibGljL3VwbG9h/ZHMvcHJldmlldy9r/dXJvbWkta2l0dHkt/c2FucmlvLWNoYXJh/Y3Rlci1pbGx1c3Ry/YXRpb24taGQtcG5n/LTczNTgxMTY5NjY3/MDg5MDRya3I3cGlv/anUucG5nP3Y9MjAy/NjAzMTMxNA" width="128px" height="128px" alt="HelloKittyByeBye"></a>
 </p>
 
 
