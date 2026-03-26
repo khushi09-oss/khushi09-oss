@@ -3,5 +3,6 @@
 <p align= "center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=khushi09-oss&theme=dark" alt="GitHub Streak" /></a>
 </p>
+                  [![GitHub Streak](https://streak-stats.demolab.com?user=khushi09-oss&theme=dark-minimalist)](https://git.io/streak-stats)
 
 
