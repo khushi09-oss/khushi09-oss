@@ -1,12 +1,8 @@
-<h1 align="center">
-  hi im khushi
-</h1>
-
-<h2 align="center">
+<h1 align="center">Hi,
   <img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="40px">
-  Khushi Sahni
+  I'm Khushi
   <img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="40px">
-</h2>
+</h1>
 
 <br>
 
