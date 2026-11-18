@@ -30,7 +30,50 @@ I'm also building **Galilearn**, an ML study app with a connected concept map, l
 
 ## Tools I use
 
-Python · TypeScript · React · FastAPI<br>
-PostgreSQL · pgvector · AWS · Docker
+### AI & LLMs
 
-[LinkedIn](https://www.linkedin.com/in/khushi-sahni)
+<p>
+  <img src="assets/tools/langgraph.svg" width="28" height="28" alt="LangGraph" />
+  <img src="assets/tools/modelcontextprotocol.svg" width="28" height="28" alt="MCP" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tools/litellm-white.png" />
+    <img src="assets/tools/litellm.png" width="148" height="28" alt="LiteLLM" />
+  </picture>
+</p>
+
+LangGraph · MCP · LiteLLM · embeddings · hybrid retrieval · evaluation · guardrails
+
+### Backend & data
+
+<p>
+  <img src="assets/tools/python.svg" width="28" height="28" alt="Python" />
+  <img src="assets/tools/fastapi.svg" width="28" height="28" alt="FastAPI" />
+  <img src="assets/tools/postgresql.svg" width="28" height="28" alt="PostgreSQL" />
+  <img src="assets/tools/redis.svg" width="28" height="28" alt="Redis" />
+  <img src="assets/tools/sqlalchemy.svg" width="28" height="28" alt="SQLAlchemy" />
+</p>
+
+Python · FastAPI · PostgreSQL · pgvector · Redis · SQLAlchemy
+
+### Frontend
+
+<p>
+  <img src="assets/tools/react.svg" width="28" height="28" alt="React" />
+  <img src="assets/tools/nextdotjs.svg" width="28" height="28" alt="Next.js" />
+  <img src="assets/tools/typescript.svg" width="28" height="28" alt="TypeScript" />
+  <img src="assets/tools/tailwindcss.svg" width="28" height="28" alt="Tailwind CSS" />
+</p>
+
+React · Next.js · TypeScript · Tailwind CSS
+
+### Infrastructure
+
+<p>
+  <img src="assets/tools/aws.svg" width="28" height="28" alt="AWS" />
+  <img src="assets/tools/docker.svg" width="28" height="28" alt="Docker" />
+  <img src="assets/tools/githubactions.svg" width="28" height="28" alt="GitHub Actions" />
+  <img src="assets/tools/temporal.svg" width="28" height="28" alt="Temporal" />
+  <img src="assets/tools/cloudflareworkers.svg" width="28" height="28" alt="Cloudflare Workers" />
+</p>
+
+AWS · Docker · GitHub Actions · Temporal · Cloudflare Workers
